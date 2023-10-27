@@ -29,5 +29,5 @@
 25. TY3TUu4RwSDmUqQAbQ66vU3tRdkqPC19M4
 26. TY825nrM5GiztWFRQW3JpPUAGuZliWPisSA
 
-[source](https://nbctf.mod.gov.il/he/Announcements/Documents/%D7%A6%D7%AA%2034-23.pdf)https://nbctf.mod.gov.il/he/Announcements/Documents/%D7%A6%D7%AA%2034-23.pdf)
+[source](https://nbctf.mod.gov.il/he/Announcements/Documents/%D7%A6%D7%AA%2034-23.pdf)
 
