@@ -35,12 +35,12 @@
 
 [source 2](https://nbctf.mod.gov.il/he/Documents/%d7%a6%d7%95%d7%95%d7%99%20%d7%aa%d7%a4%d7%99%d7%a1%d7%94/%d7%a2%d7%91%d7%a8%d7%99%d7%aa/%d7%a6%d7%aa%2019-23.pdf)
 
-1. TRwvSmistRy7vK8mq2xpPA85fj9wRJJKcUB
-2. Oxc8felc8le9275401cc99ebb3c880a840082293da
+1. [TRwvSmistRy7vK8mq2xpPA85fj9wRJKcUB](https://tronscan.org/#/address/TRwvSmistRy7vK8mq2xpPA85fj9wRJKcUB)
+2. Oxc8fe1c81e927540fcc99ebb3c880a840082293da
 3. [TR2nTb64cQMx6tqFwisoC6o7barFWHhPiw](https://tronscan.org/#/address/TR2nTb64cQMx6tqFwisoC6o7barFWHhPiw)
-4. TKcPMYyy2BkVCCIEolgh221(nhzYPuYit7hv
-5. TDnytyeHuRrpQ2wbpDot8io92bIls78XrMv
-6. TQn9oh6Mw6jLfgzh23AVHsecfC9ZE41fne
+4. [TKcPMYyy2BkVCUEoLgh22KnhzYPuYJt7hv](https://tronscan.org/#/address/TKcPMYyy2BkVCUEoLgh22KnhzYPuYJt7hv)
+5. [TDnytyeHuRrpQ2wbpDot8io92bHs78XrMv](https://tronscan.org/#/address/TDnytyeHuRrpQ2wbpDot8io92bHs78XrMv)
+6. [TQn9oh6Mw6jLfgzh23AVHsCcfC9ZE41fne](https://tronscan.org/#/address/TQn9oh6Mw6jLfgzh23AVHsCcfC9ZE41fne)
 
 ### Order 3
 
