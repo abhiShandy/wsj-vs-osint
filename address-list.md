@@ -1,8 +1,5 @@
 # Addresses 
 
-## Tether Addresses in Seizer Order
-
-
 ### Order 1
 1. TCWMveoWyAwkCthliC43nfgbtmAfPGXYhQD
 2. TDAegnxRRBVuRFJ1tkpmignshcul2nfoQF
