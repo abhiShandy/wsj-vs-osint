@@ -1,0 +1,33 @@
+# Addresses 
+
+## Tether Addresses in Seizer Order
+
+1. TCWMveoWyAwkCthliC43nfgbtmAfPGXYhQD
+2. TDAegnxRRBVuRFJ1tkpmignshcul2nfoQF
+3. TFS7HvL8Y7zWoSR6FroD9SGiKCpWTZLLLX
+4. TGSv6fGeiZbWAjBdsgkGLumtqp4wFXxzq
+5. THBPKbkuVSxNG7cq8bAvicrTm2YpMMZVKQ
+6. TJZnMKRAXWqhewxDUGvsfaoe8exUjHPwA6
+7. TM45NsDQ1YUMMHosa2uK5FaxxggNzxSys
+8. TMmEYcSL4KhzJuYpRH16aLsG16YoFyYKUq
+9. TNT8WTuCoPwuYzScrHwbv5Wzw9XBwu9u3q
+10. TPpRxpTw3Mn71rHzStQfjHB369zxHYqQiz
+11. TQ4HeWsnzXexz2UKY3Ef94xg3rnWkawirR
+12. TQLoZxoAu2arL3jCyz5ToZf4gqkmvXxtTy
+13. TSgiPLeKKTd6vQa2aLfbIQFmNV9DW52xYK
+14. TU3bxJ7FRpwsfwwc7bQLa9Jr89e7UzWB3m
+15. TUtw7GQJssJ6WtBEIJ2xKks7VimKP8rn587
+16. TVzsknku8cubpukTmUVn5Ro747Bgw3GS63
+17. TXBMWt3T4WhFkcPnob1567cGDM3ou27GWE
+18. TXXfxvnjg4497duutm5uEHUgqAhSVoM4nS
+19. TCG5LT8GZu9xedHbfwo2Mea2nJJbi5QGTv
+20. THsPCpqBmmi8CzMWvQ1Zw7cMZaJ7711nmVW
+21. TK8qQuPSCeQx6AKuqUILX4xycSVFNXGVWQy
+22. TFxuaC7zJ5QbBhnUL2KEkQbFc5UEipElfd
+23. TVoJZwG6SZrpk2Y11w2WW54HyvJmKTkeqG
+24. TWvsfLNZrB8xPEeUE5Jzo94MzNYcCZ3ia8
+25. TY3TUu4RwSDmUqQAbQ66vU3tRdkqPC19M4
+26. TY825nrM5GiztWFRQW3JpPUAGuZliWPisSA
+
+[source](https://nbctf.mod.gov.il/he/Announcements/Documents/%D7%A6%D7%AA%2034-23.pdf)https://nbctf.mod.gov.il/he/Announcements/Documents/%D7%A6%D7%AA%2034-23.pdf)
+
