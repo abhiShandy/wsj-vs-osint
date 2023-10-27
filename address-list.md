@@ -2,6 +2,8 @@
 
 ## Tether Addresses in Seizer Order
 
+
+### Order 1
 1. TCWMveoWyAwkCthliC43nfgbtmAfPGXYhQD
 2. TDAegnxRRBVuRFJ1tkpmignshcul2nfoQF
 3. [TFS7HvL8Y7zWoSR6FroD9SGiKCpWTZLLLX](https://tronscan.org/#/address/TFS7HvL8Y7zWoSR6FroD9SGiKCpWTZLLLX)
@@ -29,5 +31,16 @@
 25. [TY3TUu4RwSDmUqQAbQ66vU3tRdkqPC19M4](https://tronscan.org/#/address/TY3TUu4RwSDmUqQAbQ66vU3tRdkqPC19M4)
 26. TY825nrM5GiztWFRQW3JpPUAGuZliWPisSA
 
-[source](https://nbctf.mod.gov.il/he/Announcements/Documents/%D7%A6%D7%AA%2034-23.pdf)
+### Order 2
+28. TRwvSmistRy7vK8mq2xpPA85fj9wRJJKcUB
+29. Oxc8felc8le9275401cc99ebb3c880a840082293da
+30. [TR2nTb64cQMx6tqFwisoC6o7barFWHhPiw](https://tronscan.org/#/address/TR2nTb64cQMx6tqFwisoC6o7barFWHhPiw)
+31. TKcPMYyy2BkVCCIEolgh221(nhzYPuYit7hv
+32. TDnytyeHuRrpQ2wbpDot8io92bIls78XrMv
+33. TQn9oh6Mw6jLfgzh23AVHsecfC9ZE41fne
+
+
+
+[source 1](https://nbctf.mod.gov.il/he/Announcements/Documents/%D7%A6%D7%AA%2034-23.pdf)
+[source 2](https://nbctf.mod.gov.il/he/Documents/%d7%a6%d7%95%d7%95%d7%99%20%d7%aa%d7%a4%d7%99%d7%a1%d7%94/%d7%a2%d7%91%d7%a8%d7%99%d7%aa/%d7%a6%d7%aa%2019-23.pdf)_
 
