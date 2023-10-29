@@ -2,7 +2,7 @@
 
 ## Publicly Available data on PIJ and Hamas use of crypto
 
-[address list](https://github.com/abhiShandy/wsj-vs-osint/blob/main/address-list.md)
+[address list](https://abhishandy.github.io/wsj-vs-osint/)
 
 ## Support the effort
 
